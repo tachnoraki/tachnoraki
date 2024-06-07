@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🌱 I’m currently learning how to create guides and content of a few decades worth of experience out of my head and comitted to digital memory 😄
+
+
+✨ More to follow, watch this space evolve over time. ✨
+
 <!--
 **tachnoraki/tachnoraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
